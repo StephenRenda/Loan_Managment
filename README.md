@@ -1,10 +1,4 @@
-# SP2020_CSC190_Sultans of Scrum
-
 Loan Data Management Application
-
-# Team Members
-Alan Lin, Allen Palnikov, Daniel Jidkov, Devin Cooper, Nick Gonzales, Stephen Renda, Taylor Britton
-
 # Setup
 
 1. Install NodeJs
