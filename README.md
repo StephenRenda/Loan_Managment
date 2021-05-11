@@ -1,4 +1,8 @@
 Loan Data Management Application
+
+# Demo
+https://www.stephenrendajr.com/static/media/5addb6cfe35b4d44953c898c8c9cbf99.a6ce9cf0.mp4
+
 # Setup
 
 1. Install NodeJs
